@@ -9,6 +9,7 @@
 		<module>camelinaction</module>
 		<module>javacodegeeks</module>
 		<module>Context</module>
+		<module>CamelInActionBook</module>
 	</modules>
 
 	<dependencies>
